@@ -151,7 +151,7 @@ Execute the program using runserver command.
 ```
 
 # OUTPUT
-![449457511-00d4390a-12b4-401e-9c41-44ca29b655c1](https://github.com/user-attachments/assets/dc76f804-e28c-437b-a067-48a3ff55a129)
+![image](https://github.com/user-attachments/assets/9d616a92-f171-4894-950e-151e3c52037d)
 
 
 
